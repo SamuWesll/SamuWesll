@@ -15,7 +15,7 @@
 
   
 <div>
-  [Snake animation](https://github.com/rafaballerini/SamuWesll/blob/output/github-contribution-grid-snake.svg)
+  [Snake animation](https://github.com/SamuWesll/SamuWesll/blob/output/github-contribution-grid-snake.svg)
 </div>
 <!--
 **SamuWesll/SamuWesll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
