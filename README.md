@@ -13,10 +13,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-  
-<div>
-  [Snake animation](https://github.com/SamuWesll/SamuWesll/blob/output/github-contribution-grid-snake.svg)
-</div>
+  ![Snake animation](https://github.com/SamuWesll/SamuWesll/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **SamuWesll/SamuWesll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
